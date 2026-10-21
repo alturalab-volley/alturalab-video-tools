@@ -1,0 +1,4 @@
+.venv/
+renders/
+tools/
+.DS_Store
